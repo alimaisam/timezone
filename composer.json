@@ -1,0 +1,13 @@
+{
+    "name": "seekasia/timezones",
+    "description": "Package to show time",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ali Maisam",
+            "email": "alimaisam@seekasia.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
