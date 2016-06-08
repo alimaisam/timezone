@@ -8,6 +8,6 @@
             "email": "alimaisam@seekasia.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
