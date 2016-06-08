@@ -8,7 +8,11 @@
             "email": "alimaisam@seekasia.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {}
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0"
+        }
+    }
 }
